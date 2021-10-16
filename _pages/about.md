@@ -7,10 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Welcome to my webpage. I am a Bachelor and Master in Accounting from the National University of Bangladesh.
+Hello! I am a Shurovi Rahman, welcome to my webpage. I have completed my Bachelor's and Master's in Accounting from the National University of Bangladesh. I worked as a Business Intern at the Al-Arafa Islami Bank, Bangladesh. I have several volunteering experience related to social services and public health. I like computer programming and visiting new places in my leisure time.
 
-My Research interests include:
-* item 1
+## Education
+* M.B.S. in Accounting, 2011--2012 (Held in 2015), National University, Gazipur, Bangladesh.
+* B.B.S. in Accounting, 2008--2011 (Held in 2013), National University, Gazipur, Bangladesh.
 
-## Recent Developments
-* item 1
+## Research interests
+* Contraceptive use and health behavior.
+* Social awareness.
+* HIV/AIDS and Cancer studies  
+* Survival analysis and public health.
