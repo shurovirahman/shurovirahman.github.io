@@ -3,10 +3,7 @@ main:
 
   - title: "Experience"
     url: /experience/ 
-    
-  - title: "Awards"
-    url: /awards/
-    
+      
   - title: "Publications"
     url: /publications/
   
@@ -15,6 +12,8 @@ main:
        
   - title: "Activities"
     url: /activities/
-    
+ 
+  - title: "Awards"
+    url: /awards/ 
 #  - title: "Guide"
 #    url: /markdown/
