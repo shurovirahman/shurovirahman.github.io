@@ -5,5 +5,4 @@ author_profile: true
 ---
 
 ## Dhaka City College, National University, Bangladesh
-* M.B.S. in Accounting, National University, Bangladesh, 2011-2012 (held in 2015).
-* B.B.S. in Accounting, National University, Bangladesh, 2008-2011 (held in 2013).
+* **Dhaka City College Scholarship** for B.B.S. 3rd year and 4th year results, 2010 and  2011.
