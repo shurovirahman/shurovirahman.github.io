@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Computing Skills
-* **Software/language:** R, SPSS, R Shiny [my app on the "Visualization of HIV/AIDS Data from the BDHS-2014"](https://shurovi-rahman.shinyapps.io/bdhsEDA/).
+* **Software/language:** R, SPSS, R Shiny ([my app on the "Visualization of HIV/AIDS Data from the BDHS-2014"](https://shurovi-rahman.shinyapps.io/bdhsEDA/)).
 * **Text formatting:** LaTeX, Microsoft Word.
 
 ## Certification
