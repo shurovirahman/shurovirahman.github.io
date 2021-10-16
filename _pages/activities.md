@@ -22,4 +22,4 @@ author_profile: true
   + I talked to a native UConn undergraduate student and attended regular CCC's meeting to improve my English and learn American culture. 
 * **Member, Dhaka City College Singer Association** (2012--2015).
 * Table tennis [**champion inter-college**].
-* **Host** of the cultural events (e.g.\ annual picnic) and the freshers' reception event every academic year.
+* **Host** of the cultural events (e.g. annual picnic) and the freshers' reception event every academic year.
